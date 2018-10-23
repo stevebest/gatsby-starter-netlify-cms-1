@@ -1,6 +1,5 @@
 ---
-templateKey: 'product-page'
-path: /products
+templateKey: product-page
 title: Our Coffee
 image: /img/jumbotron.jpg
 heading: What we offer
@@ -98,4 +97,11 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '??'
+    - description: 'You are a Big Corp, we are Big Coffee'
+      items:
+        - Anything you want
+        - kitchen sink not included
+      plan: Enterprise
+      price: '999'
 ---
+
